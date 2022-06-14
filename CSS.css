@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(70, 77, 107);
+    
+}
+
+#A1{
+    background-color: rgb(8, 245, 166);
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 20px 80px;
+    text-align: center;
+}
+
+#A2{
+    margin: 20px 180px 0px 180px;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    column-gap: 100px;
+}
+
+
+.AA{
+    width: 70px;
+    margin: 5px;
+    text-align: center;
+    padding: 10px;
+    color: red;
+    
+}
+
+#hour,#min,#sec,#m_sec{
+    font-size: 100px;
+    font-weight: bold;
+    
+}
+
+.text{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+#A3{
+    margin: 0px 180px 20px 180px;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    column-gap: 5px;
+}
+
+.BB{
+    width: 80px;
+    height: 40px;
+    color: white;
+    margin: 5px 10px;
+}
+
+#A31{
+    background-color: green;
+}
+
+#A32{
+    background-color: rgb(231, 4, 4);
+}
+
+#A33{
+    background-color: rgb(7, 145, 224);
+}
